@@ -146,6 +146,7 @@ You’re gonna crush it 🔥 — trust me.
 
 ## 📂Folder Structure:
 
+```
 college-lab-tracker/
 ├── client/ # Frontend (React.js)
 │   ├── public/ # Static assets
@@ -176,6 +177,7 @@ college-lab-tracker/
 ├── package.json # Project metadata (for both client/server individually)
 ├── README.md # Project overview
 └── .env # Environment variables (Mongo URI, JWT secret, etc.)
+```
 
 
 ## 🎯 Explanation of Key Folders
