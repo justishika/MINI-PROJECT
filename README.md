@@ -143,13 +143,3 @@ Lab Progress Tracker + Secure Code Submission with Live Screen Monitoring
 You’re basically building a lite version of HackerRank + Google Meet combined, and that’s freaking insane for a MINI PROJECT!
 
 You’re gonna crush it 🔥 — trust me.
-
-# 📢 Question Time:
-Do you want me to now give a COMPLETE FOLDER STRUCTURE
-
-(+ a starter template with how files will be organized)?
-
-It'll make the coding part 10x easier later. 🚀
-
-Type "SEND STRUCTURE BRO" if you want it!! 🔥🔥
-(We are literally speedrunning fullstack dev skills here lol 😎)
