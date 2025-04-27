@@ -147,36 +147,36 @@ You’re gonna crush it 🔥 — trust me.
 ## 📂Folder Structure:
 
 college-lab-tracker/
-│
-├── client/                      # Frontend (React.js)
-│   ├── public/                # Static assets
+├── client/ # Frontend (React.js)
+│   ├── public/ # Static assets
 │   └── src/
-│       ├── assets/            # Images, icons
-│       ├── components/        # Reusable components (Navbar, Button, Inputs)
-│       ├── pages/             # Main pages (Login, Dashboard, CodeEditor, TeacherDashboard)
-│       ├── services/          # API calls (Axios services)
-│       ├── sockets/           # Socket.IO frontend setup
-│       ├── webrtc/            # WebRTC helper functions (Screen share utils)
-│       ├── utils/             # Utility functions (auth helpers, validators)
-│       ├── App.jsx            # Main App file
-│       ├── main.jsx           # React DOM renderer
-│       └── styles/          # Tailwind config or custom CSS
+│       ├── assets/ # Images, icons
+│       ├── components/ # Reusable components (Navbar, Button, Inputs)
+│       ├── pages/ # Main pages (Login, Dashboard, CodeEditor, TeacherDashboard)
+│       ├── services/ # API calls (Axios services)
+│       ├── sockets/ # Socket.IO frontend setup
+│       ├── webrtc/ # WebRTC helper functions (Screen share utils)
+│       ├── utils/ # Utility functions (auth helpers, validators)
+│       ├── App.jsx # Main App file
+│       ├── main.jsx # React DOM renderer
+│       └── styles/ # Tailwind config or custom CSS
 │
-├── server/                      # Backend (Node.js + Express)
-│   ├── controllers/          # Business logic (authController.js, labController.js)
-│   ├── models/             # MongoDB models (User.js, Lab.js, Submission.js)
-│   ├── routes/             # API routes (authRoutes.js, labRoutes.js, codeRoutes.js)
-│   ├── services/           # Code execution service (Judge0 API integration)
-│   ├── sockets/           # Socket.IO backend logic (handling WebRTC, cheating alerts)
-│   ├── webrtc/            # WebRTC signaling logic if separated
-│   ├── utils/             # Helper utils (Excel generator, JWT utils, etc.)
-│   ├── config/            # DB connection, env configs
-│   ├── app.js               # Express App setup
-│   └── server.js            # Server entrypoint (http + Socket.IO server)
+├── server/ # Backend (Node.js + Express)
+│   ├── controllers/ # Business logic (authController.js, labController.js)
+│   ├── models/ # MongoDB models (User.js, Lab.js, Submission.js)
+│   ├── routes/ # API routes (authRoutes.js, labRoutes.js, codeRoutes.js)
+│   ├── services/ # Code execution service (Judge0 API integration)
+│   ├── sockets/ # Socket.IO backend logic (handling WebRTC, cheating alerts)
+│   ├── webrtc/ # WebRTC signaling logic if separated
+│   ├── utils/ # Helper utils (Excel generator, JWT utils, etc.)
+│   ├── config/ # DB connection, env configs
+│   ├── app.js # Express App setup
+│   └── server.js # Server entrypoint (http + Socket.IO server)
 │
-├── package.json               # Project metadata (for both client/server individually)
-├── README.md                    # Project overview
-└── .env                       # Environment variables (Mongo URI, JWT secret, etc.)
+├── package.json # Project metadata (for both client/server individually)
+├── README.md # Project overview
+└── .env # Environment variables (Mongo URI, JWT secret, etc.)
+
 
 ## 🎯 Explanation of Key Folders
 
