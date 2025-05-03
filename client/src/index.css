@@ -1,0 +1,6 @@
+/* src/index.css */
+
+/* These lines include the default Tailwind CSS styles */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
